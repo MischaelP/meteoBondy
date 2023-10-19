@@ -46,6 +46,9 @@ async function getWeather() {
     
 return (
         <>
+        <div className='flex flex-col'>
+        <h1 className='text-3xl font-bold text-center pb-4 pt-4 bg-pink-500'>Bondy en deux minutes</h1>
+        </div>
         <div className='text-xl h-screen flex flex-col justify-center items-center bg-slate-500'>
         <img src={`../../src/assets/icons/${infoWeather.icon}.svg`} alt="Weather Icon" width={320} className=' flex items-center justify-center pb-4'/>
         <p className='m-4'>Température en cours : {infoWeather.temp}</p>
