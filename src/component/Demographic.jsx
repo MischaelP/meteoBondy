@@ -5,7 +5,7 @@ function Demographic() {
     const Commune = Data[0]
   return (
     <>
-    <div className='text-xl h-screen flex flex-col justify-center items-center bg-blue-500'>
+    <div className='text-xl h-screen flex flex-col justify-center items-center bg-[#FFAE03]'>
     <h1 className='text-2xl p-2'>Pourcentage de la population</h1>
       <p>Pourcentage - 15 ans : {Commune.Pourcentage0a15} %</p>
       <p>Pourcentage 15 a 29 ans : {Commune.Pourcentage15a29} %</p>

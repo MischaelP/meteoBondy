@@ -7,7 +7,7 @@ function Contact() {
         return <p className='justify-center font-bold text-3xl text-green-600 sm:items-center ml-6 mt-0'>Merci pour votre contribution !</p>;
     }
   return (
-    <div className='h-screen flex flex-col justify-center items-center'>
+    <div className='h-screen flex flex-col justify-center items-center bg-[#FDFFFC]'>
         <h1 className='text-xl'>Contacter l'administrateur du site</h1>
 
         <ul>
