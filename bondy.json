@@ -1,0 +1,295 @@
+{
+    "Ensemble": {
+      "2009": {
+        "Population": 53448,
+        "Pourcentage": 100.0
+      },
+      "2014": {
+        "Population": 53074,
+        "Pourcentage": 100.0
+      },
+      "2020": {
+        "Population": 53342,
+        "Pourcentage": 100.0
+      }
+    },
+    "15 à 29 ans": {
+      "2009": {
+        "Population": 11349,
+        "Pourcentage": 21.2
+      },
+      "2014": {
+        "Population": 10708,
+        "Pourcentage": 20.2
+      },
+      "2020": {
+        "Population": 10432,
+        "Pourcentage": 19.6
+      }
+    },
+    "30 à 44 ans": {
+      "2009": {
+        "Population": 11449,
+        "Pourcentage": 21.4
+      },
+      "2014": {
+        "Population": 11168,
+        "Pourcentage": 21.0
+      },
+      "2020": {
+        "Population": 11282,
+        "Pourcentage": 21.1
+      }
+    },
+    "45 à 59 ans": {
+      "2009": {
+        "Population": 10190,
+        "Pourcentage": 19.1
+      },
+      "2014": {
+        "Population": 9758,
+        "Pourcentage": 18.4
+      },
+      "2020": {
+        "Population": 9627,
+        "Pourcentage": 18.0
+      }
+    },
+    "60 à 74 ans": {
+      "2009": {
+        "Population": 5131,
+        "Pourcentage": 9.6
+      },
+      "2014": {
+        "Population": 5607,
+        "Pourcentage": 10.6
+      },
+      "2020": {
+        "Population": 6546,
+        "Pourcentage": 12.3
+      }
+    },
+    "75 ans ou plus": {
+      "2009": {
+        "Population": 2974,
+        "Pourcentage": 5.6
+      },
+      "2014": {
+        "Population": 3443,
+        "Pourcentage": 6.5
+      },
+      "2020": {
+        "Population": 3001,
+        "Pourcentage": 5.6
+      }
+    },
+    "Sources": "Insee, RP2009, RP2014 et RP2020, exploitations principales, géographie au 01/01/2023."
+  }
+
+  {
+    "Hommes": {
+      "Population": 26182,
+      "Pourcentage": 100.0
+    },
+    "Femmes": {
+      "Population": 27160,
+      "Pourcentage": 100.0
+    },
+    "0 à 14 ans": {
+      "Hommes": {
+        "Population": 6370,
+        "Pourcentage": 24.3
+      },
+      "Femmes": {
+        "Population": 6084,
+        "Pourcentage": 22.4
+      }
+    },
+    "15 à 29 ans": {
+      "Hommes": {
+        "Population": 5140,
+        "Pourcentage": 19.6
+      },
+      "Femmes": {
+        "Population": 5293,
+        "Pourcentage": 19.5
+      }
+    },
+    "30 à 44 ans": {
+      "Hommes": {
+        "Population": 5438,
+        "Pourcentage": 20.8
+      },
+      "Femmes": {
+        "Population": 5844,
+        "Pourcentage": 21.5
+      }
+    },
+    "45 à 59 ans": {
+      "Hommes": {
+        "Population": 4813,
+        "Pourcentage": 18.4
+      },
+      "Femmes": {
+        "Population": 4813,
+        "Pourcentage": 17.7
+      }
+    },
+    "60 à 74 ans": {
+      "Hommes": {
+        "Population": 3132,
+        "Pourcentage": 12.0
+      },
+      "Femmes": {
+        "Population": 3414,
+        "Pourcentage": 12.6
+      }
+    },
+    "75 à 89 ans": {
+      "Hommes": {
+        "Population": 1183,
+        "Pourcentage": 4.5
+      },
+      "Femmes": {
+        "Population": 1435,
+        "Pourcentage": 5.3
+      }
+    },
+    "90 ans ou plus": {
+      "Hommes": {
+        "Population": 105,
+        "Pourcentage": 0.4
+      },
+      "Femmes": {
+        "Population": 278,
+        "Pourcentage": 1.0
+      },
+    "0 à 19 ans": {
+      "Hommes": {
+        "Population": 8281,
+        "Pourcentage": 31.6
+      },
+      "Femmes": {
+        "Population": 7782,
+        "Pourcentage": 28.7
+      }
+    },
+    "20 à 64 ans": {
+      "Hommes": {
+        "Population": 14772,
+        "Pourcentage": 56.4
+      },
+      "Femmes": {
+        "Population": 15692,
+        "Pourcentage": 57.8
+      }
+    },
+    "65 ans ou plus": {
+      "Hommes": {
+        "Population": 3129,
+        "Pourcentage": 12.0
+      },
+      "Femmes": {
+        "Population": 3686,
+        "Pourcentage": 13.6
+      }
+    },
+    "Source": "Insee, RP2020 exploitation principale, géographie au 01/01/2023."
+  }
+  
+  //activité et emploi de la population de 15 a 64 ans 
+
+  {
+    "Ensemble": {
+      "Population": 34072,
+      "Actifs": 24204,
+      "Taux d'activité en %": 71.0,
+      "Actifs ayant un emploi": 19531,
+      "Taux d'emploi en %": 57.3
+    },
+    "15 à 24 ans": {
+      "Population": 7035,
+      "Actifs": 2688,
+      "Taux d'activité en %": 38.2,
+      "Actifs ayant un emploi": 1785,
+      "Taux d'emploi en %": 25.4
+    },
+    "25 à 54 ans": {
+      "Population": 21316,
+      "Actifs": 17900,
+      "Taux d'activité en %": 84.0,
+      "Actifs ayant un emploi": 14672,
+      "Taux d'emploi en %": 68.8
+    },
+    "55 à 64 ans": {
+      "Population": 5721,
+      "Actifs": 3616,
+      "Taux d'activité en %": 63.2,
+      "Actifs ayant un emploi": 3074,
+      "Taux d'emploi en %": 53.7
+    },
+    "Hommes": {
+      "Population": 16682,
+      "Actifs": 12673,
+      "Taux d'activité en %": 76.0,
+      "Actifs ayant un emploi": 10278,
+      "Taux d'emploi en %": 61.6
+    },
+    "Femmes": {
+      "Population": 17390,
+      "Actifs": 11532,
+      "Taux d'activité en %": 66.3,
+      "Actifs ayant un emploi": 9253,
+      "Taux d'emploi en %": 53.2
+    },
+    "15 à 24 ans": {
+      "Hommes": {
+        "Population": 3628,
+        "Actifs": 1493,
+        "Taux d'activité en %": 41.1,
+        "Actifs ayant un emploi": 928,
+        "Taux d'emploi en %": 25.6
+      },
+      "Femmes": {
+        "Population": 3407,
+        "Actifs": 1195,
+        "Taux d'activité en %": 35.1,
+        "Actifs ayant un emploi": 857,
+        "Taux d'emploi en %": 25.1
+      }
+    },
+    "25 à 54 ans": {
+      "Hommes": {
+        "Population": 10296,
+        "Actifs": 9306,
+        "Taux d'activité en %": 90.4,
+        "Actifs ayant un emploi": 7778,
+        "Taux d'emploi en %": 75.5
+      },
+      "Femmes": {
+        "Population": 11020,
+        "Actifs": 8594,
+        "Taux d'activité en %": 78.0,
+        "Actifs ayant un emploi": 6894,
+        "Taux d'emploi en %": 62.6
+      }
+    },
+    "55 à 64 ans": {
+      "Hommes": {
+        "Population": 2758,
+        "Actifs": 1874,
+        "Taux d'activité en %": 68.0,
+        "Actifs ayant un emploi": 1572,
+        "Taux d'emploi en %": 57.0
+      },
+      "Femmes": {
+        "Population": 2963,
+        "Actifs": 1742,
+        "Taux d'activité en %": 58.8,
+        "Actifs ayant un emploi": 1502,
+        "Taux d'emploi en %": 50.7
+      }
+    },
+    "Source": "Insee, RP2020 exploitation principale, géographie au 01/01/2023."
+  }
+  

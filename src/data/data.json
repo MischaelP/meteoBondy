@@ -1,0 +1,27 @@
+[
+    {
+        "NomCommune" : "Bondy",
+        "PopulationMunicipale": 53342,
+        "Densite": 9751.7,
+        "Hommes": 26182,
+        "Femmes": 27160,
+        "Pourcentage0a15": 24,
+        "Pourcentage15a29": 20,
+        "Pourcentage30a44": 21,
+        "Pourcentage45a59": 18,
+        "Pourcentage60a74": 12,
+        "Pourcentage75plus": 4, 
+        "TauxActivité": 71.1,
+        "TauxChomage": 14.6,
+        "RFMedian" : 16950,
+        "PopActive": 24751,
+        "EcoleMaternelle": 12,
+        "EcoleElementaire": 14,
+        "EcoleElementairePrivee": 1,
+        "CollegePrive" : 2,
+        "LyceePrivee" : 2,
+        "NombreLycee" : 7,
+        "NombreCollege" : 7
+
+    }
+]

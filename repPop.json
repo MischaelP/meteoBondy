@@ -1,0 +1,57 @@
+{
+    "Hommes": {
+      "0 à 18 ans": {
+        "Population": 6370
+      },
+      "18 à 25 ans": {
+        "Population": 3628
+      },
+      "26 à 35 ans": {
+        "Population": 5140
+      },
+      "36 à 45 ans": {
+        "Population": 5438
+      },
+      "46 à 59 ans": {
+        "Population": 4813
+      },
+      "60 à 74 ans": {
+        "Population": 3132
+      },
+      "75 ans et plus": {
+        "Population": 1183
+      }
+    },
+    "Femmes": {
+      "0 à 18 ans": {
+        "Population": 6084
+      },
+      "18 à 25 ans": {
+        "Population": 3407
+      },
+      "26 à 35 ans": {
+        "Population": 5293
+      },
+      "36 à 45 ans": {
+        "Population": 5844
+      },
+      "46 à 59 ans": {
+        "Population": 4813
+      },
+      "60 à 74 ans": {
+        "Population": 3414
+      },
+      "75 ans et plus": {
+        "Population": 1435
+      }
+    },
+    "Répartition Homme/Femme Totale": {
+      "Hommes": {
+        "Population": 26182
+      },
+      "Femmes": {
+        "Population": 27160
+      }
+    }
+  }
+  

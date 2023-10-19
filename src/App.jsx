@@ -1,14 +1,22 @@
-import { useState } from 'react'
 import MeteoCard from './component/MeteoCard'
-
+import Pop from './component/Pop'
+import Demographic from './component/Demographic'
+import Economics from './component/Economics'
+import Contact from './component/Contact'
+import Education from './component/Education'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
-     <h1 className='text-xl font-bold text-center'>Bondy en deux minutes</h1>
+     <h1 className='text-3xl font-bold text-center pb-4 pt-4 bg-pink-500'>Bondy en deux minutes</h1>
      <MeteoCard />
+     <Pop />
+     <Demographic />
+     <Economics />
+     <Education />
+     <Contact />
     </>
   )
 }
