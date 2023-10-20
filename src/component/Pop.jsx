@@ -11,9 +11,9 @@ function Pop() {
     <>
     <div className='text-xl h-screen flex flex-col justify-center items-center bg-[#1B998B]'>
       <img src={CityHall} alt='Mairie' className='w-100 sm:w-1/3 pb-4'/>
-      <p>Nombre d'habitants à Bondy : {Commune.PopulationMunicipale}</p>
-      <p>Nombre de Femmes: {Commune.Femmes} soit {pourcentageFemme}%</p>
-      <p>Nombre d'Hommes: {Commune.Hommes} soit {pourcentageHomme}%</p>
+      <p>A bondy il y'a  <span className='font-semibold'>{Commune.PopulationMunicipale}</span> habitants</p>
+      <p>Dont  <span className='font-semibold'>{Commune.Femmes}</span> de femmes soit un peu plus de {pourcentageFemme}% de la ville</p>
+      <p>Et il y'a <span className='font-semibold'>{Commune.Hommes}</span> hommes soit {pourcentageHomme}% des habitants de Bondy</p>
     </div>
     </>
   )
