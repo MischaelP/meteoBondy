@@ -7,7 +7,7 @@ function Economics() {
       <h1 className='text-2xl m-2'>Economie de la Ville</h1>
       <p>Population active : {Commune.PopActive}</p>
       <p>Population en activité : {Commune.TauxActivité} %</p>
-      <p>Population au chômage : {Commune.TauxChomage} %</p>
+      <p>Population inactive : {Commune.TauxChomage} %</p>
       <p>Revenu fiscal moyen : {Commune.RFMedian} €</p>
     </div>
   )

@@ -1,5 +1,6 @@
 import React from 'react'
 import { useForm, ValidationError } from '@formspree/react'
+import mail from '../assets/mail.svg';
 
 function Contact() {
     const [state, handleSubmit] = useForm("xyyqlqnp")
@@ -8,6 +9,7 @@ function Contact() {
     }
   return (
     <div className='h-screen flex flex-col justify-center items-center bg-[#FDFFFC]'>
+        <img src={mail} alt='Me contacter' className='w-full sm:w-1/2'/>
         <h1 className='text-xl'>Contacter l'administrateur du site</h1>
 
         <ul>
