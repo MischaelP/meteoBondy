@@ -57,7 +57,7 @@ return (
             </p>
         </div>
         <div className='text-xl h-screen flex flex-col justify-center items-center bg-[#FDFFFC]'>
-        <img src={`../../src/assets/icons/${infoWeather.icon}.svg`} alt="Weather Icon" width={320} className=' flex items-center justify-center pb-4'/>
+        <img src={`../../src/assets/icons/${infoWeather.icon}.svg`} alt="Weather Icon" className=' flex items-center w-auto justify-center pb-4'/>
         <p className='m-4'>Température en cours : {infoWeather.temp}</p>
         </div>
     </>
